@@ -1,0 +1,17 @@
+# 忽略虚拟环境
+.venv/
+venv/
+
+# 忽略 IDE 相关文件
+.idea/
+*.iml
+*.xml
+
+# 忽略编译文件
+*.pyc
+__pycache__/
+
+# 忽略其他临时文件
+*.log
+*.tmp
+*.swp
